@@ -1,0 +1,23 @@
+.test {
+  display: block;
+}
+.button {
+  background: url("images/watermelon.jpg");
+  color: #ffffff;
+  padding: 5px;
+  display: inline-block;
+}
+.jumbo-button {
+  background: url("images/watermelon.jpg");
+  color: #ffffff;
+  padding: 5px;
+  display: inline-block;
+  padding: 35px;
+}
+.light-button {
+  background: url("images/watermelon.jpg");
+  color: #ffffff;
+  padding: 5px;
+  display: inline-block;
+  background: #90ffbf;
+}
